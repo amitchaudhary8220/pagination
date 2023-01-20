@@ -1,0 +1,10 @@
+div{
+    display: flex;
+  
+}
+p>span{
+    border:1px solid black;
+    padding: 25px;
+    cursor: pointer;
+
+}
